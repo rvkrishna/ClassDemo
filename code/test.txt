@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 
+=======
+This is the line from master branch.
+
+This is a simple line in master. No conflicts.
+
+
+
+
+This is bottom line in master
+>>>>>>> b23619218ac9eee9e5377a8d90ad97fc18b45ad8
