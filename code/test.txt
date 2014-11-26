@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is the line from branch
-=======
-This is the line from master branch.
->>>>>>> master
+
